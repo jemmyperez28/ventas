@@ -55,7 +55,7 @@ ROOT_URLCONF = 'ventas.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['D:/Proyectos/ventas/ventas/ventas/polls/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
